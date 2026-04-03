@@ -7,7 +7,7 @@
 
 <!-- badges: stop -->
 
-# Unexpected diversity of Isidoides (Anthozoa: Octocorallia: Isidoidae) revealed by morphology and phylogenomic analysis with descriptions of three new species
+# Unexpected diversity of _Isidoides_ (Anthozoa: Octocorallia: Isidoidae) revealed by morphology and phylogenomic analysis with descriptions of three new species
  
 Yu Xu<sup>1,†</sup>, Jaret P. Bilewitch<sup>2,†</sup>, Eric Pante<sup>3,4,†,$</sup>, Zifeng Zhan<sup>1</sup>, Sadie Mills<sup>2</sup>, Malcolm R. Clark<sup>2</sup> and Kuidong Xu<sup>1,5,$</sup>
  
