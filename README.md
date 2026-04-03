@@ -17,6 +17,9 @@ Yu Xu<sup>1,†</sup>, Jaret P. Bilewitch<sup>2,†</sup>, Eric Pante<sup>3,4,�
 <sup>4</sup> Institut Systématique Evolution Biodiversité (ISYEB), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université, EPHE, Université des Antilles, 43 rue Cuvier, CP 26, 75005 Paris, France
 <sup>5</sup> University of Chinese Academy of Sciences, Beijing 100049, China
  
-<sup>$</sup> Corresponding author: Eric Pante (eric.pante@cnrs.fr), Kuidong Xu (kxu@qdio.ac.cn)
+<sup>$</sup> Corresponding authors: Eric Pante (eric.pante@cnrs.fr), Kuidong Xu (kxu@qdio.ac.cn)
 <sup>†</sup> These authors contributed equally to this work
- 
+
+---
+
+This repository contains code and references to the rawdata necessary to replicate the analyses in Xu et al 2026. To assemble UCEs from raw `fastq.gz`, start with the `snp_pipeline` folder, and perform steps 0 to 6 (derived form [Erickson et al 2021](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13241) and [github.com/Lavarchus](https://github.com/Lavarchus/SNP-calling-GATK4)); fork to `phylogenetic/Workflow_UCE.html`for the next steps of the assembly; this part is based on the [phyluce tutorial 1](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-1.html)). For detecting SNPs, perform steps 7-18 from `snp_pipeline`. `snp_config_files`contains the files necessary to run the `snp_pipeline`scripts. The pipeline is optimised for HPC with `slurm`.
